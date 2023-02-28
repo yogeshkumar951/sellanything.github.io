@@ -1,0 +1,46 @@
+/* .navbar{
+    display: flex;
+    height: 100px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+.logo{
+    margin-bottom: 20px; 
+}
+.logo-first{
+    margin-left: 30px;
+    color: brown;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.logo-second{
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(33, 10, 117);
+} */
+
+.navbar-brand{
+    margin-left: 100px;
+    display: inline-block;
+}
+.search-bar{
+    margin-right: 100px;
+}
+.contact-btn {
+    border-style: none;
+    background: #dd5727;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 20px;
+    margin: 0 0 0 20px;
+}
+.search-bar-input{
+    border-radius: 20px;
+    border: 2px solid #dd5727;
+    height: 41px;
+    padding-left: 20px;
+}
+.sub-nav{
+    background-color: aqua;
+    height: 40px;
+}
